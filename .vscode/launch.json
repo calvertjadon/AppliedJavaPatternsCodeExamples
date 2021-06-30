@@ -10,6 +10,13 @@
             "request": "launch",
             "mainClass": "com.calvertjadon.ajpcodeexamples.abstractfactory.AbstractFactory",
             "projectName": "AppliedJavaPatternsCodeExamples_e3cfa81c"
+        },
+        {
+            "type": "java",
+            "name": "Builder Example",
+            "request": "launch",
+            "mainClass": "com.calvertjadon.ajpcodeexamples.builder.Builder",
+            "projectName": "AppliedJavaPatternsCodeExamples_e3cfa81c"
         }
     ]
 }
